@@ -2,7 +2,7 @@ require "bundler/setup"
 require 'yaml'
 require 'active_record'
 
-require_relative '..\app\models\show.rb'
+require_relative '../app/models/show.rb'
 
 Bundler.require
 
